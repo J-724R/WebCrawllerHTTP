@@ -4,7 +4,7 @@
   "description": "Project from freeCodeCamp  - HTTP Networking Course",
   "main": "index.js",
   "scripts": {
-    "start": "node main.ts",
+    "start": "node main.js",
     "test": "jest"
   },
   "author": "",
